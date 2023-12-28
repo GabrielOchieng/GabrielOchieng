@@ -4,7 +4,7 @@
 <img align="center" src=""/>
 
 
-<p align="left"> <a href="https://twitter.com/thegabrielshow" target="blank"><img src="https://img.shields.io/twitter/follow/thegabrielshow?logo=twitter&style=for-the-badge" alt="thegabrielshow" /></a> </p>
+<p align="left"> <a href="https://twitter.com/TechieGabriel" target="blank"><img src="https://img.shields.io/twitter/follow/techiegabriel?logo=twitter&style=for-the-badge" alt="techiegabriel" /></a> </p>
 
 - 🔭 I’m currently working on [ELCK CDC WEBSITE](https://elck-cdc.onrender.com/)
 
