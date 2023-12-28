@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Ochieng</h1>
-<h3 align="center">Experienced Software Developer adept in bringing forth expertise in design, installation, testing and maintenance of software systems</h3>
+<h3 align="center">Experienced Software Developer adept in bringing forth expertise in design, installation, testing and maintenance of software systems.</h3>
 
 <img align="center" src=""/>
 
@@ -20,8 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/thegabrielshow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thegabrielshow" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gabrielochieng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabrielochieng" height="30" width="40" /></a>
+<a href="https://twitter.com/TechieGabriel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thegabrielshow" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gabrielochieng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabrielochieng" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
