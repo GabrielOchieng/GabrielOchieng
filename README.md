@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Postgresql, Graphql, TypeScript, Cypress**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-gabrielochieng.vercel.app/](https://portfolio-gabrielochieng.vercel.app/)
+- 👨‍💻 All of my projects are available at [PORTFOLIO](https://portfolio-gabrielochieng.vercel.app/)
 
 - 💬 Ask me about **JavaScript, React, MERN, CSS, Tailwind, Bootstrap.**
 
