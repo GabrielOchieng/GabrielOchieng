@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ogingagabriel@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14pIqg8BHTxV0bVPTLt3OQXdNquawlKjR/view?usp=drivesdk](https://drive.google.com/file/d/14pIqg8BHTxV0bVPTLt3OQXdNquawlKjR/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14pIqg8BHTxV0bVPTLt3OQXdNquawlKjR/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
