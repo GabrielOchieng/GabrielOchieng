@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/TechieGabriel" target="blank"><img src="https://img.shields.io/twitter/follow/techiegabriel?logo=twitter&style=for-the-badge" alt="techiegabriel" /></a> </p>
 
-- 🔭 I’m currently working on [ELCK CDC WEBSITE](https://elck-cdc.onrender.com/)
+- 🔭 I’m currently working on [ELCK CDC WEBSITE](https://elck-cdc.onrender.com)
 
 - 🌱 I’m currently learning **Postgresql, Graphql, TypeScript, Cypress**
 
-- 👨‍💻 All of my projects are available at [PORTFOLIO](https://portfolio-gabrielochieng.vercel.app/)
+- 👨‍💻 All of my projects are available at [PORTFOLIO](https://gabportfolio.vercel.app)
 
 - 💬 Ask me about **JavaScript, React, MERN, CSS, Tailwind, Bootstrap.**
 
