@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [ELCK CDC WEBSITE](https://elck-cdc.onrender.com)
 
-- 🌱 I’m currently learning **Postgresql, Graphql, TypeScript, Cypress**
+- 🌱 I’m currently learning **Next.js, TypeScript and Cypress**
 
 - 👨‍💻 All of my projects are available at [PORTFOLIO](https://gabportfolio.vercel.app)
 
