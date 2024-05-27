@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h4>Experienced Software Developer adept in bringing forth expertise in design, installation, testing and maintenance of software systems. Proficient in various platforms, languages, and embedded systems. Experienced with the latest cutting edge development tools and procedures. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.</h4>
+<h4>A highly motivated software developer eager to leverage my skills in design, installation, testing, and maintaining software systems. I'm passionate about learning new technologies and constantly explore the latest cutting-edge development tools and procedures. I thrive in collaborative environments that allow me to contribute my technical expertise and dedication while learning from experienced developers.</h4>
 
 
 ## 🌐 Socials:
