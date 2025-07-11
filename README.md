@@ -31,6 +31,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%23338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+[![NativeWind](https://img.shields.io/badge/nativewind-%23017AFF.svg?style=for-the-badge&logo=react&logoColor=white)](https://www.nativewind.dev/)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white) 
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-%23000000.svg?style=for-the-badge&logo=radix-ui&logoColor=white)
