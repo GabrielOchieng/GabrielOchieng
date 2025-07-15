@@ -21,6 +21,7 @@
 ![MUI](https://img.shields.io/badge/MUI-%23007FFF.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![TanStack React Query](https://img.shields.io/badge/react_query-%23463e8a.svg?style=for-the-badge&logo=react-query&logoColor=white)
+![React Email](https://img.shields.io/badge/React_Email-%23F02E65.svg?style=for-the-badge&logo=react&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
