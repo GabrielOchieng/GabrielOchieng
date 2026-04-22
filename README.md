@@ -1,6 +1,6 @@
 # 💫 About Me
 <h4><b>Product-Focused Software Developer | AI Orchestration Specialist</b></h4>
-<h4>I specialize in bridging complex AI logic with high-end User Experience (UX/CX). With professional experience at Jambojet and as a full-stack architect, I build autonomous systems leveraging React 19, Next.js 16, and LLM orchestration. I thrive in engineering environments where clean code, technical standards, and scalable system architecture are the top priority.</h4>
+<h4>I specialize in bridging complex AI logic with high-end User Experience (UX/CX). As an experienced Frontend Developer and Full-stack Architect, I build autonomous systems leveraging React 19, Next.js 16, and LLM orchestration. I thrive in engineering environments where clean code, technical standards, and scalable system architecture are the top priority.</h4>
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielochieng)
@@ -17,16 +17,15 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![React Native](https://img.shields.io/badge/react--native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![MUI](https://img.shields.io/badge/MUI-%23007FFF.svg?style=for-the-badge&logo=mui&logoColor=white)
+![React Native](https://img.shields.io/badge/react--native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-%E03A20.svg?style=for-the-badge&logo=angular&logoColor=white) 
 ![NestJS](https://img.shields.io/badge/nestjs-%E03A20.svg?style=for-the-badge&logo=nestjs&logoColor=white) 
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ### Libraries & State Management
-![MUI](https://img.shields.io/badge/MUI-%23007FFF.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
 ![TanStack React Query](https://img.shields.io/badge/react_query-%23463e8a.svg?style=for-the-badge&logo=react-query&logoColor=white)
@@ -42,6 +41,7 @@
 ### Styling
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![MUI](https://img.shields.io/badge/MUI-%23007FFF.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%23338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 [![NativeWind](https://img.shields.io/badge/nativewind-%23017AFF.svg?style=for-the-badge&logo=react&logoColor=white)](https://www.nativewind.dev/)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
