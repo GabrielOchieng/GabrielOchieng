@@ -1,6 +1,6 @@
 # 💫 About Me
 <h4><b>Product-Focused Software Developer | AI Orchestration Specialist</b></h4>
-<h4>I specialize in bridging complex AI logic with high-end User Experience (UX/CX). As an experienced Frontend Developer and Full-stack Architect, I build autonomous systems leveraging React 19, Next.js 16, and LLM orchestration. I thrive in engineering environments where clean code, technical standards, and scalable system architecture are the top priority.</h4>
+<h4><h4>I specialize in bridging complex AI logic with high-end User Experience (UX/CX). As an experienced Frontend Developer and Product Engineer, I build autonomous systems leveraging React 19, Next.js 16, and LLM orchestration. I thrive in engineering environments where clean code, technical standards, and scalable system architecture are the top priority.</h4>.</h4>
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielochieng)
