@@ -62,11 +62,11 @@
 
 # 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GabrielOchieng&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true" alt="Gabriel's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielOchieng&show_icons=true&theme=transparent&rank_icon=github&count_private=true" alt="Gabriel's GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielOchieng&theme=transparent&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GabrielOchieng&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielOchieng&theme=transparent&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
 ---
